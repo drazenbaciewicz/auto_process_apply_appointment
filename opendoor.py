@@ -21,7 +21,7 @@ EMAIL_PASSWORD = ""
 
 mins = 1
 
-def bot(htmlstring, drvier):
+def bot(htmlstring, driver):
     global mins
     time.sleep(5)
     
